@@ -15,7 +15,7 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World, my name is Niamh.");
+        System.out.println("Hello IS3313, my name is Niamh.");
         // TODO code application logic here
     }
     
